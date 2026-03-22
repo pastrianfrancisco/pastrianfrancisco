@@ -2,10 +2,15 @@
 Junior Administrative & Accounting Assistant based in Buenos Aires, Argentina.
 
 🎓 Studying Business Administration at UNSAM
+
 💼 Experience in billing, accounts payable/receivable, and financial reporting
+
 📊 Advanced Excel and power BI user — pivot tables, dashboards, KPI tracking, DAX Functions, ETL data transforming
+
 🌍 Bilingual: Spanish (native) · English B2 (Cambridge)
+
 🌐 Open to remote work
+
 
 📩 pastrianfrancisco@gmail.com · LinkedIn
 
